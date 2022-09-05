@@ -50,6 +50,7 @@ body{
     padding: 0.5rem 1rem;
     font-size: medium;
     margin : 15px 600px;
+    cursor: pointer;
 
 }
 .text{
